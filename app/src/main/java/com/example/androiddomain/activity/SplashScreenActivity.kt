@@ -8,9 +8,9 @@ import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
-import com.example.lumipixdatingapp.MainActivity
-import com.example.lumipixdatingapp.R
-import com.example.lumipixdatingapp.auth.LoginActivity
+import com.example.androiddomain.MainActivity
+import com.example.androiddomain.R
+import com.example.androiddomain.auth.LoginActivity
 import com.google.firebase.auth.FirebaseAuth
 
 class SplashScreenActivity : AppCompatActivity() {

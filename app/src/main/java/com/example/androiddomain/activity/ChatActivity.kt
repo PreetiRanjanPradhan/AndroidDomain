@@ -4,9 +4,9 @@ import android.annotation.SuppressLint
 import android.os.Bundle
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.example.lumipixdatingapp.adapter.MessageAdapter
-import com.example.lumipixdatingapp.databinding.ActivityChatBinding
-import com.example.lumipixdatingapp.model.MessageModel
+import com.example.androiddomain.adapter.MessageAdapter
+import com.example.androiddomain.databinding.ActivityChatBinding
+import com.example.androiddomain.model.MessageModel
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.database.DataSnapshot
 import com.google.firebase.database.DatabaseError
